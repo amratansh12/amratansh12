@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/amratansh12)
+[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-8.gif)](https://github.com/amratansh12)
 <h1 align="center">Hi 👋, I'm Amratansh Shrivastava</h1>
 <h3 align="center">A Full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
