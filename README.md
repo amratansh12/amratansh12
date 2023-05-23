@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **Web development**
-- 
+
 - 📫 Reach me through **ashri1205@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SNnOwaPVophyu47rgnDJNglf2J2ZlRBd/view?usp=sharing](https://drive.google.com/file/d/1SNnOwaPVophyu47rgnDJNglf2J2ZlRBd/view?usp=sharing)
